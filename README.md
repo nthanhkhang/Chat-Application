@@ -21,7 +21,7 @@ This is a node.js chat application powered by SockJS and Express that provides t
 .
 ![Admin Features](http://i.imgur.com/xQFaadt.png)
 
-
+---
 #### There are 3 admin levels:
 - **Helper:** Can delete chat messages
 - **Moderator:** The above plus the ability to kick and ban users
